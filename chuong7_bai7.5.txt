@@ -1,0 +1,18 @@
+Python 3.12.0 (tags/v3.12.0:0fb18b0, Oct  2 2023, 13:03:39) [MSC v.1935 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> x = 15
+>>> y = 12
+>>> print('binary of x =',bin(x),',binary of y =',bin(y))
+binary of x = 0b1111 ,binary of y = 0b1100
+>>> print('x&y =',bin(x&y))
+x&y = 0b1100
+>>> print('x/y =',bin(x|y))
+x/y = 0b1111
+>>> print('x^y =',bin(x^y))
+x^y = 0b11
+>>> print('~x =',bin(~x))
+~x = -0b10000
+>>> print('x << 2',bin(x << 2))
+x << 2 0b111100
+>>> print('x << 2',bin(x << 2))
+x << 2 0b111100
