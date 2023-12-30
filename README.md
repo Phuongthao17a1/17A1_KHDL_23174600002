@@ -1,0 +1,2 @@
+# 17A1_KHDL_23174600002
+BTVN Tin học cơ sở
